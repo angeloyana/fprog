@@ -7,6 +7,8 @@ Source code can be found in the `/src` folder.
   - **Midterm Exam**
     1. [Set A - Pyramid](/src/10-12-2024/exam_set_a.c)
     2. [Set B - Inversed Pyramid](/src/10-12-2024/exam_set_b.c)
+  - **Room Activity**
+    1. [Introduction to Functions](/src/10-12-2024/room_activity_1.c)
 - **09-21-2024**
   - **Lab Activity**
     1. [Sum of 1 to n](/src/09-21-2024/lab_activity_1.c)
