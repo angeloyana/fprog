@@ -8,7 +8,7 @@ $(BIN_DIRS):
 	mkdir -p $@
 
 bin/%: src/%.c
-	gcc -o $@ $<
+	gcc -o $@ $< -lm
 
 clean:
 	rm -rf bin

@@ -3,6 +3,20 @@
 Source code can be found in the `/src` folder.
 
 ## Quick Jump
+- **10-19-2024**
+  - **Lab Activity**
+    1. [Print "Hello, World!"](/src/10-19-2024/lab_activity_1.c)
+    2. [Sum of two integers](/src/10-19-2024/lab_activity_2.c)
+    3. [Centimeters to Inches](/src/10-19-2024/lab_activity_3.c)
+    4. [Area of a Rectangle](/src/10-19-2024/lab_activity_4.c)
+    5. [Average of three integers](/src/10-19-2024/lab_activity_5.c)
+    6. [Even or Odd number](/src/10-19-2024/lab_activity_6.c)
+    7. [Square Root](/src/10-19-2024/lab_activity_7.c)
+    8. [Absolute Value](/src/10-19-2024/lab_activity_8.c)
+    9. [Round Up](/src/10-19-2024/lab_activity_9.c)
+    10. [Trigonometric Functions](/src/10-19-2024/lab_activity_10.c)
+    11. [Power Function](/src/10-19-2024/lab_activity_11.c)
+    12. [Minimum and Maximum](/src/10-19-2024/lab_activity_12.c)
 - **10-12-2024**
   - **Midterm Exam**
     1. [Set A - Pyramid](/src/10-12-2024/exam_set_a.c)
