@@ -3,6 +3,13 @@
 Source code can be found in the `/src` folder.
 
 ## Quick Jump
+- **11-09-2024**
+  - **Lab Activity**
+    1. [Print even numbers in an array](./src/11-09-2024/lab_activity_1.c)
+    2. [Replace odd numbers by 0 in an array](./src/11-09-2024/lab_activity_2.c)
+    3. [Sort an array in ascending and descending order](./src/11-09-2024/lab_activity_3.c)
+    4. [Get the sum of an array of integers](./src/11-09-2024/lab_activity_4.c)
+    5. [Find the indices of a target number in an array](./src/11-09-2024/lab_activity_5.c)
 - **10-19-2024**
   - **Lab Activity**
     1. [Print "Hello, World!"](/src/10-19-2024/lab_activity_1.c)
