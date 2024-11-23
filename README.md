@@ -3,6 +3,14 @@
 Source code can be found in the `/src` folder.
 
 ## Quick Jump
+- **11-23-2024**
+  - **Lab Activity**
+    1. [Create and display a 2D array](./src/11-23-2024/lab_activity_1.c)
+    2. [Get sum of a 2D array](./src/11-23-2024/lab_activity_2.c)
+    3. [Get biggest number in a 2D array](./src/11-23-2024/lab_activity_3.c)
+    4. [Count zeros in a 2D array](./src/11-23-2024/lab_activity_4.c)
+    5. [Count even and odd numbers in a 2D array](./src/11-23-2024/lab_activity_5.c)
+    6. [Simple banking system with 2D array](./src/11-23-2024/lab_activity_6.c)
 - **11-09-2024**
   - **Lab Activity**
     1. [Print even numbers in an array](./src/11-09-2024/lab_activity_1.c)
